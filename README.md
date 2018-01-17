@@ -1,5 +1,7 @@
 # Bird
 
+A simple web app to get into working with phoenix. Feel free to fork and play around.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
